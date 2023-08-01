@@ -57,8 +57,12 @@ body {
 .button-area button {
     background-color: #262626;
     color: #fff;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     padding: 10px 15px;
-    margin-top: 20px;
+    margin: 20px 150px;
     border-radius: 5px;
+}
+
+.button-area button:active {
+    background-color: lightblue;
 }
