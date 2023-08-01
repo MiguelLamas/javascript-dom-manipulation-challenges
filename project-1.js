@@ -11,7 +11,7 @@ const quotes =  [{
     quote: `"If you want to live a happy life, tie it to a goal, not to people or things."`,
     person: `Albert Einstein`
 }, {
-    quote: `"at his best, man is the noblest of all animals; seperated from law and justice he is th worst."`,
+    quote: `"At his best, man is the noblest of all animals; seperated from law and justice he is the worst."`,
     person: `Aristotle`
 }, {
     quote: `"Your time is limited, so don't waste it living someone else's life."`,
